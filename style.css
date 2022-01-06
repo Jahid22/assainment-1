@@ -70,3 +70,85 @@ body{
 .imgdiv3{
     width:20%;
 }
+
+/*third part */
+.third{
+
+}
+.thirdsection{
+    display: flex;
+    
+}
+.image1{
+    margin-left: 10px;
+    width: 300px;
+
+}
+.para3{
+    margin-left: 5%;
+}
+.button1{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(69, 180, 214);
+    border:1px solid rgb(128, 0, 64) rounded;
+    margin-top: 20px; 
+}
+/* fourth part */
+.fourth{
+}
+.fourthsection{
+    display: flex;
+    margin-top:10% ;
+    margin-bottom: 10%;
+    
+}
+.image1{
+    margin-left: 10px;
+    width: 250px;
+
+}
+.para4{
+    margin-left: 5%;
+}
+.button2{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(69, 180, 214);
+    border:1px solid rgb(128, 0, 64) rounded;
+    margin-top: 20px; 
+}
+/*fiveth part */
+.fivethsection{
+    display: flex;
+    margin: 15px;
+
+    
+}
+.header5{
+    text-align: center;
+
+    ;
+}
+.image5{
+    margin-left: 20%;
+    width: 300px;
+
+}
+.para5{
+    margin-left: 5%;
+}
+.button5{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(69, 180, 214);
+    border:1px solid rgb(128, 0, 64) rounded;
+    margin-top: 20px; 
+}
+
+.span5{
+
+}
+.subspan{
+    
+}
