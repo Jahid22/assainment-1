@@ -1,3 +1,6 @@
+body{
+    font-family:arial, helvetica, sans-serif;
+}
 #promise{color:rgb(255, 166, 0)}
 .header{
     border-left: 5px solid rgb(69, 180, 214);
