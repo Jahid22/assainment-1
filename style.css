@@ -28,6 +28,7 @@ body{
     background-color: rgb(69, 180, 214);
     border:1px solid rgb(128, 0, 64) rounded;
     margin-bottom: 30px; 
+    border-radius: 3px;
     
 }
 /*second part */
@@ -73,10 +74,11 @@ body{
 
 /*third part */
 .third{
-
+    
 }
 .thirdsection{
     display: flex;
+    margin: 10%;
     
 }
 .image1{
@@ -92,10 +94,12 @@ body{
     height: 30px;
     background-color: rgb(69, 180, 214);
     border:1px solid rgb(128, 0, 64) rounded;
-    margin-top: 20px; 
+    margin-top: 20px;
+    border-radius: 3px; 
 }
 /* fourth part */
 .fourth{
+    background-image: url("C:\project\assainment-1\images\shapes\shape-1.png");
 }
 .fourthsection{
     display: flex;
@@ -103,9 +107,12 @@ body{
     margin-bottom: 10%;
     
 }
+
 .image1{
     margin-left: 10px;
     width: 250px;
+    
+    
 
 }
 .para4{
@@ -117,6 +124,7 @@ body{
     background-color: rgb(69, 180, 214);
     border:1px solid rgb(128, 0, 64) rounded;
     margin-top: 20px; 
+    border-radius: 3px;
 }
 /*fiveth part */
 .fivethsection{
@@ -144,6 +152,7 @@ body{
     background-color: rgb(69, 180, 214);
     border:1px solid rgb(128, 0, 64) rounded;
     margin-top: 20px; 
+    border-radius: 3px;
 }
 
 .span5{
