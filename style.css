@@ -147,8 +147,23 @@ body{
 }
 
 .span5{
-
+    color:rgb(255, 166, 0);
 }
 .subspan{
-    
+    color:rgb(255, 166, 0);
+}
+/*footer */
+.footer{
+    background-color: black;
+    color: blanchedalmond;
+    margin: 0%;
+}
+.footdiv{
+    text-align: center;
+}
+.footspan{
+    color:rgb(255, 166, 0);
+}
+#family{
+    font-family: 'Pushster', cursive;
 }
