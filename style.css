@@ -1,6 +1,7 @@
 body{
     font-family:arial, helvetica, sans-serif;
 }
+/*first part */
 #promise{color:rgb(255, 166, 0)}
 .header{
     border-left: 5px solid rgb(69, 180, 214);
@@ -10,7 +11,7 @@ body{
 
 
 }
-section{
+.first{
     display: flex;
 }
 .half{
@@ -28,4 +29,44 @@ section{
     border:1px solid rgb(128, 0, 64) rounded;
     margin-bottom: 30px; 
     
+}
+/*second part */
+.second{
+    margin-top: 5%;
+}
+.parent{
+    display:flex;
+    margin: 5%;
+
+}
+.secondheader{
+    text-align:center;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.span1{
+    color:rgb(255, 166, 0);
+}
+.div1{
+    background-color: rgb(207, 223, 223);
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.imgdiv1{
+    width:20%;
+}
+.div2{
+    background-color: rgb(223, 193, 193);
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.imgdiv2{
+    width:20%;
+}
+.div3{
+    background-color: rgb(191, 238, 238);
+    border-radius: 5px;
+}
+.imgdiv3{
+    width:20%;
 }
